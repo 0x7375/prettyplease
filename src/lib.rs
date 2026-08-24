@@ -373,7 +373,7 @@ use syn::File;
 const MARGIN: isize = 89;
 
 // Number of spaces increment at each level of block indentation.
-const INDENT: isize = 4;
+const INDENT: isize = 2;
 
 // Every line is allowed at least this much space, even if highly indented.
 const MIN_SPACE: isize = 60;
